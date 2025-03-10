@@ -17,7 +17,7 @@ function App() {
       <Router>
         <Routes>
           {/* Public Route for Login (Commented out) */}
-          <Route path="/" element={<Login />} />
+          <Route path="/" element={<Dashboard/>} />
 
           {/* Direct Access to Routes */}
           <Route path="/dashboard" element={<Dashboard />} />
