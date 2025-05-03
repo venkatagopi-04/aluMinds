@@ -3,12 +3,15 @@
 
 ## 💡 Project Overview
 **AluMinds** is a smart web-based system designed to predict and optimize the physical properties of aluminum wire rods—**UTS (Ultimate Tensile Strength), Elongation, and Conductivity**—based on dynamic casting parameters. This project was developed for the **Smart India Hackathon 2024** and is backed by real-world industrial data from **National Aluminium Company Limited (NALCO)**.
-https://drive.google.com/file/d/1clD9v_dUUMVRvdkfL_kxehibT_s35eXO/view?usp=sharing
+
 The system empowers engineers and supervisors with:
 - Accurate **predictions** of wire rod properties  
 - Intelligent **reverse predictions** (input suggestion based on desired output)  
 - A user-friendly **dashboard interface**  
 - **Optimization insights** for improved productivity and quality
+
+
+![Dashboard Image](frontend/aluminds.png)
 
 ---
 
